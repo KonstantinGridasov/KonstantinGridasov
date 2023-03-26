@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm KonstantinGridasov 👋
 
 <!--
 **KonstantinGridasov/KonstantinGridasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=31F761&background=33A5FF00&width=435&lines=Android+developer+(Kotlin+%2C+Java);Python+Backend+developer;Learn+Unix+System;CI%2FCD;Junior+DevOps+Engineer)](https://git.io/typing-svg)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinGridasov&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinGridasov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
