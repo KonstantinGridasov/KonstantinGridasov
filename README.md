@@ -48,12 +48,10 @@ Here are some ideas to get you started:
 ### 💻 Software and tools
 
 <p>
+    <a href="#"><img alt="IntelliJIdea" src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-black?logo=pycharm&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellijidea&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/-AWS-yellow?logo=amazonaws&colorlogo=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-blueviolet?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   
@@ -62,5 +60,6 @@ Here are some ideas to get you started:
 ### Frameworks and service
   <a href="#"><img alt="AWS Service" src="https://img.shields.io/badge/-AWS-yellow?logo=amazonaws"></a>
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-lightgrey?logo=django"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-blueviolet?logo=figma&logoColor=white"></a>
 
 
